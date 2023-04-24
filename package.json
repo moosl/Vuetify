@@ -1,0 +1,24 @@
+{
+  "name": "simple-vuetify-1x-boilerplate",
+  "version": "1.0.0",
+  "description": "A very simple app to containing components, mixins, Router and Vuex.",
+  "keywords": [
+    "vuetify",
+    "vuejs",
+    "vuex",
+    "vue-router"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "@faker-js/faker": "6.0.0",
+    "initials": "3.1.2",
+    "is-dark-color": "1.2.0",
+    "moment": "2.29.3",
+    "string-to-color": "2.2.2",
+    "v-tooltip": "2.1.3",
+    "vue": "2.6.14",
+    "vue-router": "3.5.3",
+    "vuetify": "1.5.24",
+    "vuex": "3.6.2"
+  }
+}
